@@ -1,0 +1,5 @@
+{
+  "name": "Tra soát - Khiếu nại",
+  "description": "A multi-role system for managing order audits between Merchants (Portal), Admins, and Customer Service (Admin (Phản hồi TS)).",
+  "requestFramePermissions": []
+}
